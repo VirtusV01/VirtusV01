@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 [![Bootstrap](https://img.shields.io/badge/MySQL-00758f.svg?logo=mysql&logoColor=white)](https://www.w3.org/html/)
 
 # Softwares And Tools
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](https://www.w3.org/html/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](https://github.com/VirtusV01#)
 ![OBS](https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white)
 ![Brave](https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white)
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-green?logo=Hack-The-Box&logoColor=white)](https://www.hackthebox.eu/home/users/profile/your-username)
