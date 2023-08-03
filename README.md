@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 # Top Language
 [![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)](https://www.w3.org/Style/CSS/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com/)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 [![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)](https://www.python.org/)
 
 # Frameworks
@@ -29,5 +29,16 @@ You can click the Preview link to take a look at your changes.
 # Softwares And Tools
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](https://www.w3.org/html/)
 ![OBS](https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white)
+![Brave](https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-green?logo=Hack-The-Box&logoColor=white)](https://www.hackthebox.eu/home/users/profile/your-username)
+![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)
+
+# IDE
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-838485?logo=spyder%20ide&logoColor=maroon)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white)
+
+# Servers
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white)
 
 
